@@ -1,0 +1,8 @@
+name: DaeConomy
+main: me.tsc.daeconomy.DaeConomyMain
+version: 1.0
+depends: [Vault]
+commands:
+ daecon:
+  usage: /<command>
+  description: Issues the main command

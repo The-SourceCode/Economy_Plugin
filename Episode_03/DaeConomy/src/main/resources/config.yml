@@ -1,0 +1,1 @@
+uri: "mongodb://Admin:AdminAdmin123@daeconomy-shard-00-00-wmcki.mongodb.net:27017,daeconomy-shard-00-01-wmcki.mongodb.net:27017,daeconomy-shard-00-02-wmcki.mongodb.net:27017/test?ssl=true&replicaSet=DaeConomy-shard-0&authSource=admin"
